@@ -1,35 +1,35 @@
 # clothes-shop
 (EN)
 <ol type="I">
-  <li>
-    Description: <br/>
+ <h1><li>
+	  Description:</h1>
     A shop selling clothes made in pure php with MySQL database
   </li>
-<li>
-  What do you need to run it: <br/>
+<h1><li>
+What do you need to run it: </h1>
   XAMPP and latest version of PHP
  </li>
-<li> How to run the app:
+	<h1><li> How to run the app:</h1>
   <ol type="1">
 		<li>Put the files onto a folder. </li>
     <li>Move the folder into "htdocs" folder inside XAMPP directory </li>
     <li>Change credentials inside connection.php file. </li>
-		<li>Run the apache serwer and MySQL server in XAMPP</li>
+		<li>Run the apache server and MySQL server in XAMPP</li>
     <li>Access the app inside the browser on the address: https://localhost/<app directory>/index.php </li>
 		</li>
   </ol>
  </ol>
  (PL)
 <ol type="I">
-  <li>
-    Opis: <br/>
+  <h1><li>
+	  Opis: </h1>
     Sklep odzieżowy wykonany w PHP z użyciem bazy MySQL
   </li>
-<li>
- Co jest potrzebne do uruchomienia: <br/>
+<h1><li>
+ Co jest potrzebne do uruchomienia: </h1>
   XAMPP i aktualna wersja PHP
  </li>
-<li>Jak uruchomić aplikacje:
+<h1><li>Jak uruchomić aplikacje:</h1>
   <ol type="1">
 		<li>Umieść pliki w folderze </li>
     <li>Przenieś folder do katalogu "htdocs" wewnątrz głównego folderu XAMPP'a </li>
