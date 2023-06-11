@@ -11,7 +11,7 @@ What do you need to run it: </h1>
  </li>
 	<h1><li> How to run the app:</h1>
   <ol type="1">
-		<li>Put the files onto a folder. </li>
+		<li>git clone files onto a folder. </li>
     <li>Move the folder into "htdocs" folder inside XAMPP directory </li>
     <li>Change credentials inside connection.php file. </li>
 		<li>Run the apache server and MySQL server in XAMPP</li>
@@ -31,7 +31,7 @@ What do you need to run it: </h1>
  </li>
 <h1><li>Jak uruchomić aplikacje:</h1>
   <ol type="1">
-		<li>Umieść pliki w folderze </li>
+		<li>Umieść pliki w folderze komendą git clone</li>
     <li>Przenieś folder do katalogu "htdocs" wewnątrz głównego folderu XAMPP'a </li>
     <li>Zmień dane połączenia z bazą danych w pliku connection.php </li>
 		<li>Uruchom serwer apache i MySQL w XAMPP'ie</li>
