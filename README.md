@@ -32,7 +32,7 @@
 <li>Jak uruchomić aplikacje:
   <ol type="1">
 		<li>Umieść pliki w folderze </li>
-    <li>Przenieś folder do katalogu "htdocs" wewnątrz głównego folferu XAMPP'a </li>
+    <li>Przenieś folder do katalogu "htdocs" wewnątrz głównego folderu XAMPP'a </li>
     <li>Zmień dane połączenia z bazą danych w pliku connection.php </li>
 		<li>Uruchom serwer apache i MySQL w XAMPP'ie</li>
     <li>Otwórz aplikacje pod adresem: https://localhost/<folder aplikacji>/index.php </li>
